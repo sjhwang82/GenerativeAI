@@ -13,44 +13,41 @@ Office hours: By appointment only.
 * **Absolute Grading**
 * Paper Presentation: 20%
 * Attendance and Participation: 20%
-* Project: 60% 
+* Assignments and Project: 60% 
 
 ## Tentative Schedule
 
 | Dates | Topic | 
 |---|:---|
-|8/29| Course Introduction |
-|9/1| Review of Deep Learning Basics (Video Lecture) |
-|9/6| Vision Transformers (Lecture) |
-|9/8| Vision Transformers / Self-Supervised Learning (Lecture) |
-|9/13| Self-Supervised Learning (Lecture) |
-|9/15| Self-Supervised Learning (Presentation) | 
-|9/20| Bayesian Deep Learning - Bayesian ML Basics, Bayesian Neural Networks (Lecture) |
-|9/22| Bayesian Deep Learning - Bayesian Approximations, Uncertainties in Prediction (Lecture) |
-|9/27| Bayesian Deep Learning - MCMC Sampling for Bayesian Inference, Neural Processes (Lecture)  | 
-|9/29| Bayesian Deep Learning (Presentation) |
-|10/4| Deep Generative Models - Advanced GANs (Lecture) |
-|10/6| Deep Generative Models - Advanced GANs (Presentation) **Initial Proposal Due**|
-|10/11| Deep Generative Models - Diffusion Models (Lecture) | 
-|10/13| Deep Generative Models - Diffusion Models (Lecture) |
-|10/18| Deep Generative Models - Diffusion Models (Presentation) |  
-|10/20| **Mid-term Presentation**
-|10/25| Large Language Models (Lecture) |
-|10/27| Multimodal Generative Models (Lecture) |
-|11/1| Large Language Models and Multimodal Generative Models (Presentation) | 
-|11/3| Deep Reinforcement Learning - Deep RL Basics (Lecture) |
-|11/8| Deep Reinforcement Learning - Policy-based RL, Model-based RL (Lecture) |
-|11/10| Deep Reinforcement Learning - Offline RL, Exploration, RL via Sequence Modeling (Lecture) |   
-|11/15| Deep Reinforcement Learning (Presentation) | 
-|11/17| Meta Learning (Lecture) |
-|11/22| Meta Learning (Presentation) |
-|11/24| Continual Learning (Lecture) | 
-|11/29| Continual Learning (Presentation) |
-|12/1| Robust Deep Learning (Lecture) | 
-|12/6| Robust Deep Learning (Presentation) |
-|12/8| Deep Graph Learning (Lecture) |
-|12/13| Deep Graph Learning (Presentation) |   
-|12/15| **Final Presentation**
+|2/28| Course Introduction |
+|3/2| Autoencoders and Variational Autoencoders (Lecture) |
+|3/7| Transformers (Lecture) |
+|3/9| Transformers (Lecture) |
+|3/14| Self-Supervised Learning (Lecture) |
+|3/16| Self-Supervised Learning (Presentation) | 
+|3/21| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
+|3/23| Advanced GANs (Lecture) |
+|3/28| Advanced GANs (Presentation) |
+|3/30| Autoregressive and Flow-based Models (Lecture) | 
+|4/4| Autoregressive and Flow-based Models (Presentation) |
+|4/6| Diffusion Models (Lecture) |
+|4/11| Diffusion Models (Lecture) |
+|4/13| Diffusion Models (Presentation) | 
+|4/18| **Mid-term Presentation**
+|4/25| Language Models (Lecture)
+|4/27| Large Language Models (Lecture) |
+|5/2| Code Generation (Lecture) 
+|5/4| Language Models and Code Generation (Presentation) |
+|5/9| Text-to-Image Generation (Lecture) |
+|5/11| Text-to-Image Generation (Presentation) | 
+|5/16| Speech Synthesis (Lecture) | 
+|5/23| Speech Synthesis (Presentation) |  
+|5/25| Virtual Humans (Lecture)
+|5/30| Virtual Humans (Presentation)
+|6/1| Graph Representation Learning (Lecture) | 
+|6/6| Graph Generation (Lecture) | 
+|6/8| Graph Generation (Presentation) 
+|6/13| **Final Presentation**
 
 ## Reading List
 
