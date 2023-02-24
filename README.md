@@ -1,4 +1,4 @@
-# Advanced Deep Learning @ KAIST
+# Generative and Unsupervised Deep Learning @ KAIST
 
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
