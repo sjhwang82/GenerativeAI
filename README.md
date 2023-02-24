@@ -27,26 +27,26 @@ Office hours: By appointment only.
 |3/16| Self-Supervised Learning (Presentation) | 
 |3/21| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
 |3/23| Advanced GANs (Lecture) |
-|3/28| Advanced GANs (Presentation) |
-|3/30| Autoregressive and Flow-based Models (Lecture) | 
-|4/4| Autoregressive and Flow-based Models (Presentation) |
-|4/6| Diffusion Models (Lecture) |
+|3/28| Advanced GANs (Lab) |
+|3/30| Advanced GANs (Presentation) |
+|4/4| Autoregressive and Flow-based Models (Lecture) | 
+|4/6| Autoregressive and Flow-based Models (Presentation) |
 |4/11| Diffusion Models (Lecture) |
-|4/13| Diffusion Models (Presentation) | 
-|4/18| **Mid-term Presentation**
+|4/13| Diffusion Models (Lecture) |
+|4/18| Diffusion Models (Lab) |
+|4/20| Diffusion Models (Presentation) | 
 |4/25| Language Models (Lecture)
 |4/27| Large Language Models (Lecture) |
-|5/2| Code Generation (Lecture) 
-|5/4| Language Models and Code Generation (Presentation) |
+|5/2| Dialogue Generation (Lecture) 
+|5/4| Language Models (Presentation) |
 |5/9| Text-to-Image Generation (Lecture) |
-|5/11| Text-to-Image Generation (Presentation) | 
-|5/16| Speech Synthesis (Lecture) | 
-|5/23| Speech Synthesis (Presentation) |  
-|5/25| Virtual Humans (Lecture)
-|5/30| Virtual Humans (Presentation)
-|6/1| Graph Representation Learning (Lecture) | 
-|6/6| Graph Generation (Lecture) | 
-|6/8| Graph Generation (Presentation) 
+|5/11| Text-to-Image Generation (Lab) |
+|5/16| Text-to-Image Generation (Presentation) |
+|5/23| Graph Representation Learning (Lecture) | 
+|5/25| Graph Generation (Lecture) | 
+|6/1| Graph Generation (Presentation) |
+|6/3| Speech Synthesis (Lecture) |
+|6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
 
 ## Reading List
