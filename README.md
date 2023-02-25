@@ -97,7 +97,8 @@ Office hours: By appointment only.
 ***
 
 ### Variational Autoencoders  
-[[van den Oord et al. 17]](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf) Neural Discrete Representation Learning, NeurIPS 2017
+[[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
+[[van den Oord et al. 17]](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf) Neural Discrete Representation Learning, NeurIPS 2017.  
 [[Vahdat and Kautz 20]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, NeurIPS 2020.  
 
 ***
@@ -186,10 +187,10 @@ Limited Data, NeurIPS 2020.
 [[Liu et al. 21]](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) Elastic Graph Neural Networks, ICML 2021.  
 [[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.  
 [[Jo et al. 21]](https://openreview.net/forum?id=vwgsqRorzz) Edge Representation Learning with Hypergraphs, NeurIPS 2021.  
-***
 [[Guo et al. 22]](https://openreview.net/pdf?id=l4IHywGq6a) Data-Efficient Graph Grammar Learning for Molecular Generation, ICLR 2022.  
 [[Geerts et al. 22]](https://openreview.net/pdf?id=wIzUeM3TAU) Expressiveness and Approximation Properties of Graph Neural Networks, ICLR 2022.  
 [[Bevilacqua et al. 22]](https://openreview.net/pdf?id=dFbKQaRk15w) Equivariant Subgraph Aggregation Networks, ICLR 2022.  
+***
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
 
@@ -219,7 +220,8 @@ Limited Data, NeurIPS 2020.
 [[Ding et al. 21]](https://proceedings.neurips.cc/paper/2021/file/a4d92e2cd541fca87e4620aba658316d-Paper.pdf) CogView: Mastering Text-to-Image Generation via Transformers, NeurIPS 2021.  
 [[Zou et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf) Towards Language-Free Training for Text-to-Image Generation, CVPR 2022.  
 ***
-[[Rombach et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022.  
+[[Rombach et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022.
+[[Gu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) Vector Quantized Diffusion Model for Text-to-Image Synthesis, CVPR 2022.  
 [[Nichol et al. 22]](https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf) GLIDE: Towards Photorealistic Image Generation and Editing with
 Text-Guided Diffusion Models, ICML 2022.  
 [[Saharia et al. 22]](https://arxiv.org/abs/2205.11487) Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, arXiv preprint, 2022.  
