@@ -11,9 +11,9 @@ Office hours: By appointment only.
 
 ### Grading Policy
 * **Absolute Grading**
-* Paper Presentation: 20%
+* Paper Presentation: 30%
 * Attendance and Participation: 20%
-* Assignments and Project: 60% 
+* Assignments and Project: 50%
 
 ## Tentative Schedule
 
@@ -21,30 +21,31 @@ Office hours: By appointment only.
 |---|:---|
 |2/28| Course Introduction |
 |3/2| Autoencoders and Variational Autoencoders (Lecture) |
-|3/7| Transformers (Lecture) |
-|3/9| Transformers (Lecture) |
-|3/14| Self-Supervised Learning (Lecture) |
-|3/16| Self-Supervised Learning (Presentation) | 
-|3/21| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
+|3/7| Transformers for Language and Vision (Lecture) |
+|3/9| Transformers for Language and Vision (Lecture) |
+|3/16| Self-Supervised Learning (Lecture) |
+|3/21| Self-Supervised Learning (Presentation) | 
+|3/23| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
 |3/23| Advanced GANs (Lecture) |
-|3/28| Advanced GANs (Lab) |
-|3/30| Advanced GANs (Presentation) |
+|3/28| Advanced GANs (Presentation) |
+|3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session)**  |
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
 |4/6| Autoregressive and Flow-based Models (Presentation) |
-|4/11| Diffusion Models (Lecture) |
-|4/13| Diffusion Models (Lecture) |
-|4/18| Diffusion Models (Lab) |
+|4/11| Diffusion Models  (Lecture) |
+|4/13| Diffusion Models  (Lecture) |
+|4/18| Diffusion Models (Presentation) |
 |4/20| Diffusion Models (Presentation) | 
-|4/25| Language Models (Lecture)
-|4/27| Large Language Models (Lecture) |
-|5/2| Dialogue Generation (Lecture) 
-|5/4| Language Models (Presentation) |
-|5/9| Text-to-Image Generation (Lecture) |
-|5/11| Text-to-Image Generation (Lab) |
-|5/16| Text-to-Image Generation (Presentation) |
-|5/23| Graph Representation Learning (Lecture) | 
-|5/25| Graph Generation (Lecture) | 
-|6/1| Graph Generation (Presentation) |
+|4/20| Large Language Models (Lecture)
+|4/25| Dialogue Generation (Lecture) |
+|4/27| Multimodal Foundation Models (Lecture) 
+|5/2| Language and Multi-modal Foundation Models (Presentation) |
+|5/4| Text-to-Image Generation (Lecture) |
+|5/9| **Text-to-Image Generation - LDM (Lab Session)** |
+|5/11| Text-to-Image Generation (Presentation) |
+|5/16| Graph Representation Learning (Lecture) | 
+|5/23| Graph Generation (Lecture) | 
+|5/25| **Graph Generation (Lab session)** |
+|6/1| Graph Generation (Presentation) | 
 |6/3| Speech Synthesis (Lecture) |
 |6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
