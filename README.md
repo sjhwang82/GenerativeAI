@@ -30,9 +30,9 @@ Office hours: By appointment only.
 |3/28| Advanced GANs (Presentation) |
 |3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
-|4/6| Autoregressive and Flow-based Models (Presentation) |
+|4/6| Diffusion Models  (Lecture) |
 |4/11| Diffusion Models  (Lecture) |
-|4/13| Diffusion Models  (Lecture) |
+|4/13| **Diffusion Models (Lab Session)** |
 |4/18| Diffusion Models (Presentation) |
 |4/20| **Mid-term Presentation** | 
 |4/25| Large Language Models (Lecture)
