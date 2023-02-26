@@ -223,16 +223,23 @@ Limited Data, NeurIPS 2020.
 
 
 ### Multimodal Foundation Models 
+[[Socher et al. 13]](https://papers.nips.cc/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf) Zero-Shot Learning Through Cross-Modal Transfer, NeurIPS 2013.  
+[[Lu et al. 19]](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf) VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019.  
+[[Li et al. 20]](file:///Users/sungjuhwang/Downloads/6795-Article%20Text-10024-1-10-20200522.pdf) Unicoder-VL: A Universal Encoder for Vision and Language by Cross-Modal Pre-Training, AAAI 2020.  
 [[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
+[[Li et al. 22]](https://proceedings.mlr.press/v162/li22n/li22n.pdf) BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation, ICML 2022.  
 [[Baevski et al. 22]](https://proceedings.mlr.press/v162/baevski22a/baevski22a.pdf) data2vec: A General Framework for Self-supervised Learning in Speech, Vision, and Language, ICML 2022.  
-***
 [[Fei et al. 22]](https://www.nature.com/articles/s41467-022-30761-2) Towards artificial general intelligence via a multimodal foundation model, Nature Communications 2022.  
+***
+[[Alayract et al. 22]](https://openreview.net/forum?id=EbMuimAbPbs) Flamingo: a Visual Language Model for Few-shot Learning, NeurIPS 2022.   
 [[Wang et al. 22]](https://arxiv.org/abs/2208.10442) Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks, arXiv preprint, 2022.  
+[[Reed et al. 22]](https://arxiv.org/pdf/2205.06175.pdf) A Generalist Agent, arXiv preprint, 2022.  
 [[Zeng et al. 23]](https://openreview.net/forum?id=G2Q2Mh3avow) Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language, ICLR 2023.  
 
 
 
 ### Text-to-Image Synthesis
+[[Reed et al. 16]](http://proceedings.mlr.press/v48/reed16.pdf) Generative Adversarial Text to Image Synthesis, ICML 2016.  
 [[Li et al. 19]](https://proceedings.neurips.cc/paper/2019/file/1d72310edc006dadf2190caad5802983-Paper.pdf) Controllable Text-to-Image Generation, NeurIPS 2019.  
 [[Ramesh et al. 21]](http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf) Zero-Shot Text-to-Image Generation, ICML 2021.   
 [[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
