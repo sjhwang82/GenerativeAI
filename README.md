@@ -145,16 +145,16 @@ Limited Data, NeurIPS 2020.
 [[Esser et al. 22]](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf) Taming Transformers for High-Resolution Image Synthesis, CVPR 2021.  
 [[Hudson and Zitnick 21]](https://arxiv.org/pdf/2103.01209.pdf) Generative Adversarial Transformers, ICML 2021.  
 [[Karras et al. 21]](https://proceedings.neurips.cc/paper/2021/file/076ccd93ad68be51f23707988e934906-Paper.pdf) Alias-Free Generative Adversarial Networks, NeurIPS 2021.  
-***
-[[Skorokhodov et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Skorokhodov_StyleGAN-V_A_Continuous_Video_Generator_With_the_Price_Image_Quality_CVPR_2022_paper.pdf) StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2, CVPR 2022.  
 [[Lin et al. 22]](https://openreview.net/pdf?id=ufGMqIM0a4b) InfinityGAN: Towards Infinite-Pixel Image Synthesis, ICLR 2022.  
 [[Lee et al. 22]](https://openreview.net/pdf?id=dwg5rXg1WS_) ViTGAN: Training GANs with Vision Transformers, ICLR 2022.  
 [[Yu et al. 22]](https://openreview.net/forum?id=pfNyExj7z2) Vector-Quantized Image Modeling with Improved VQGAN, ICLR 2022.  
+***
 [[Franceschi et al. 22]](https://proceedings.mlr.press/v162/franceschi22a/franceschi22a.pdf) A Neural Tangent Kernel Perspective of GANs, ICML 2022.  
-
+[[Huang et al. 22]](https://openreview.net/forum?id=js2ssA77fX) Masked Generative Adversarial Networks are Data-Efficient Generation Learners, NeurIPS 2022.  
 ***
 
 ### Diffusion Models
+[[Sohl-Dickstein et al. 15]](https://proceedings.mlr.press/v37/sohl-dickstein15.html) Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015.  
 [[Song and Ermon 19]](https://proceedings.neurips.cc/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  
 [[Song and Ermon 20]](https://papers.nips.cc/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf) Improved Techniques for Training Score-Based Generative Models, NeurIPS 2020.  
 [[Ho et al. 20]](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) Denoising Diffusion Probabilistic Models, NeurIPS 2020.  
@@ -164,11 +164,13 @@ Limited Data, NeurIPS 2020.
 [[Dhariwal and Nichol 21]](https://papers.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) Diffusion Models Beat GANs on Image Synthesis, NeureIPS 2021.  
 [[De Bortoli et al. 22]](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf) Diffusion Schrodinger Bridge with Application to Score-Based Generative Modeling, NeurIPS 2021.  
 [[Ho and Salimans 22]](https://arxiv.org/pdf/2207.12598.pdf) Classifier-Free Diffusion Guidance, arXiv preprint, 2022.
-***
 [[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022.  
 [[Salimans and Ho 22]](https://openreview.net/pdf?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.  
-[[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022. 
-
+[[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022.
+***
+[[Chen et al. 23]](https://openreview.net/forum?id=zyLVMgsZ0U_) Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions, ICLR 2023.   
+[[Liu et al. 23]](https://openreview.net/forum?id=WH1yCa0TbB) Learning Diffusion Bridges on Constrained Domains, ICLR 2023.   
+[[Chung et al. 23]](https://openreview.net/forum?id=OnD9zGAGT0k) Diffusion Posterior Sampling for General Noisy Inverse Problems, ICLR 2023.  
 ***
 
 ### Graph Representation Learning and Generation
