@@ -61,11 +61,14 @@ Office hours: By appointment only.
 [[Wu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_CvT_Introducing_Convolutions_to_Vision_Transformers_ICCV_2021_paper.pdf) CvT: Introducing Convolutions to Vision Transformers, ICCV 2021.  
 [[Dai et al. 21]](https://proceedings.neurips.cc/paper/2021/file/20568692db622456cc42a2e853ca21f8-Paper.pdf) CoAtNet: Marrying Convolution and Attnetion for All Data Sizes, NeurIPS 2021.  
 [[Yang et al. 21]](https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf) Focal Attention for Long-Range Interactions in Vision Transformers, NeurIPS 2021.  
+[[Rao et al. 21]](https://openreview.net/pdf?id=jB0Nlbwlybm) DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification, NeurIPS 2021.  
 [[El-Nouby et al. 21]](https://proceedings.neurips.cc/paper/2021/file/a655fbe4b8d7439994aa37ddad80de56-Paper.pdf) XCiT: Cross-Covariance Image Transformers, NeurIPS 2021.  
 [[Li et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.pdf) MViTv2: Improved Multiscale Vision Transformers for Classification and Detection, CVPR 2022.  
 [[Lee et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.pdf) MPViT : Multi-Path Vision Transformer for Dense Prediction, CVPR 2022.  
 ***
-
+[[Lee et al. 23]](https://openreview.net/forum?id=VV0hSE8AxCw) Sparse Token Transformer with Attention Back Tracking, ICLR 2023.  
+[[Liu et al. 23]](https://openreview.net/pdf?id=De4FYqjFueZ) Transformers Learn Shortcuts to Automata, ICLR 2023.  
+[[Bolya et al. 23]](https://openreview.net/pdf?id=De4FYqjFueZ) Token Merging: Your ViT But Faster, ICLR 2023.  
 
 
 ### Self-Supervised Learning
@@ -221,6 +224,7 @@ Limited Data, NeurIPS 2020.
 
 ### Multimodal Foundation Models 
 [[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
+[[Baevski et al. 22]](https://proceedings.mlr.press/v162/baevski22a/baevski22a.pdf) data2vec: A General Framework for Self-supervised Learning in Speech, Vision, and Language, ICML 2022.  
 ***
 [[Fei et al. 22]](https://www.nature.com/articles/s41467-022-30761-2) Towards artificial general intelligence via a multimodal foundation model, Nature Communications 2022.  
 [[Wang et al. 22]](https://arxiv.org/abs/2208.10442) Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks, arXiv preprint, 2022.  
@@ -243,3 +247,17 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Yu et al. 22]](https://arxiv.org/abs/2206.10789) Scaling Autoregressive Models for Content-Rich Text-to-Image Generation, arXiv preprint, 2022.  
 [[Gafni et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf) Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors, ECCV 2022.  
 [[Chen et al. 23]](https://openreview.net/forum?id=XSEBx0iSjFQ) Re-Imagen: Retrieval-Augmented Text-to-Image Generator, ICLR 2023.  
+
+### Speech Representation Learning and Synthesis
+[[Baevski et al. 20]](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations, NeurIPS 2020.  
+[[Wang et al. 17]](https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/1452.PDF) Tacotron: Towards End-to-End Speech Synthesis, Interspeech 2017.  
+[[Shen et al. 18]](https://arxiv.org/abs/1712.05884) Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions, ICASSP 2018.  
+[[Chen et al. 19]](https://openreview.net/forum?id=rkzjUoAcFX) Sample Efficient Adaptive Text-to-Speech, ICLR 2019.  
+[[Hsu et al. 19]](https://openreview.net/forum?id=rygkk305YQ) Hierarchical Generative Modeling for Controllable Speech Synthesis, ICLR 2019.  
+[[Kumar et al. 19]](https://papers.nips.cc/paper/2019/file/6804c9bca0a615bdb9374d00a9fcba59-Paper.pdf) MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis, NeurIPS 2019.  
+[[Kong et al. 20]](https://papers.nips.cc/paper/2020/file/c5d736809766d46260d816d8dbc9eb44-Paper.pdf) HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis, NeurIPS 2020.  
+[[Min et al. 21]](https://openreview.net/pdf?id=De4FYqjFueZ) Meta-StyleSpeech: Multi-Speaker Adaptive Text-to-Speech Generation, ICML 2021.  
+***
+[[Kang et al. 23]](https://arxiv.org/abs/2211.09383) Any-Speaker Adaptive Text-To-Speech Synthesis with Diffusion Models, ICASSP 2023.  
+[[Ren et al. 23]](https://arxiv.org/abs/2211.09383) Back of Tricks for Unsupervised Text-to-Speech, ICLR 2023.    
+
