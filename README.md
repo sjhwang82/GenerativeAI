@@ -206,15 +206,20 @@ Limited Data, NeurIPS 2020.
 [[Thoppilan et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) LaMDA: Language Models for Dialog Applications, arXiv preprint, 2022.   
 [[Wei et al. 22]](https://openreview.net/pdf?id=gEZrGCozdqR) Finetuned Langauge Models Are Zero-Shot Learners, ICLR 2022.  
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.  
-***
 [[Alayrac et al. 22]](https://arxiv.org/abs/2204.14198) Flamingo: a Visual Language Model for Few-Shot Learning, arXiv preprint, 2022.  
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
+***
 [[Wei et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS 2022.  
 [[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022.  
 [[Touvron et al. 23]](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf) LLaMA: Open and Efficient Foundation Language Models, arXiv preprint, 2023
 ***
 
+
 ### Multimodal Foundation Models 
+[[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
+***
+[[Fei et al. 22]](https://www.nature.com/articles/s41467-022-30761-2) Towards artificial general intelligence via a multimodal foundation model, Nature Communications 2022.  
+[[Wang et al. 22]](https://arxiv.org/abs/2208.10442) Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks, arXiv preprint, 2022.  
 [[Zeng et al. 23]](https://openreview.net/forum?id=G2Q2Mh3avow) Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language, ICLR 2023.  
 
 
