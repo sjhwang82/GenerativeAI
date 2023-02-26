@@ -25,7 +25,7 @@ Office hours: By appointment only.
 |3/9| Transformers for Language and Vision (Lecture) |
 |3/16| Self-Supervised Learning (Lecture) |
 |3/21| Self-Supervised Learning (Presentation) | 
-|3/23| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
+|3/23| Advanced VAEs, GAN Basics (Lecture) | 
 |3/23| Advanced GANs (Lecture) |
 |3/28| Advanced GANs (Presentation) |
 |3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
