@@ -194,7 +194,7 @@ Limited Data, NeurIPS 2020.
 ***
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
-
+[[Jo et al. 23]](https://arxiv.org/abs/2302.03596) Graph Generation with Destiation-Driven Diffusion Mixture, arXiv preprint, 2023.  
 ***
 
 ### Large Language Models
