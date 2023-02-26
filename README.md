@@ -11,8 +11,8 @@ Office hours: By appointment only.
 
 ### Grading Policy
 * **Absolute Grading**
-* Paper Presentation: 30%
-* Attendance and Participation: 20%
+* Paper Presentation: 25%
+* Attendance and Participation: 25%
 * Assignments and Project: 50%
 
 ## Tentative Schedule
@@ -52,6 +52,8 @@ Office hours: By appointment only.
 ## Reading List
 
 ### Transformers and Vision Transformers
+[[Vaswani et al. 17]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) Attention is All You Need, NeurIPS 2017.  
+[[Zaheer et al. 20]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf) Big Bird: Transformers for Longer Sequences, NeurIPS 2020.  
 [[Dosovitskiy et al. 21]](https://openreview.net/forum?id=YicbFdNTTy) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021.  
 [[Touvron et al. 21]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf) Training Data-efficient Image transformers & Distillation through Attention, ICML 2021.  
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021.  
