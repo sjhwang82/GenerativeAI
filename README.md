@@ -53,6 +53,7 @@ Office hours: By appointment only.
 
 ### Transformers and Vision Transformers
 [[Vaswani et al. 17]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) Attention is All You Need, NeurIPS 2017.  
+[[Beltagy et al. 20]](https://arxiv.org/abs/2004.05150) Longformer: The Long-Document Transformer, arXiv preprint, 2020.  
 [[Zaheer et al. 20]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf) Big Bird: Transformers for Longer Sequences, NeurIPS 2020.  
 [[Dosovitskiy et al. 21]](https://openreview.net/forum?id=YicbFdNTTy) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021.  
 [[Touvron et al. 21]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf) Training Data-efficient Image transformers & Distillation through Attention, ICML 2021.  
@@ -63,9 +64,9 @@ Office hours: By appointment only.
 [[El-Nouby et al. 21]](https://proceedings.neurips.cc/paper/2021/file/a655fbe4b8d7439994aa37ddad80de56-Paper.pdf) XCiT: Cross-Covariance Image Transformers, NeurIPS 2021.  
 [[Li et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.pdf) MViTv2: Improved Multiscale Vision Transformers for Classification and Detection, CVPR 2022.  
 [[Lee et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.pdf) MPViT : Multi-Path Vision Transformer for Dense Prediction, CVPR 2022.  
-[[Liu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)A ConvNet for the 2020s, CVPR 2022.  
-
 ***
+
+
 
 ### Self-Supervised Learning
 <!--
@@ -209,11 +210,13 @@ Limited Data, NeurIPS 2020.
 [[Wang et al. 22]](https://openreview.net/forum?id=pMQwKL1yctf) Language Modeling via Stochastic Processes, ICLR 2022.  
 [[Alayrac et al. 22]](https://arxiv.org/abs/2204.14198) Flamingo: a Visual Language Model for Few-Shot Learning, arXiv preprint, 2022.  
 [[Chowdhery et al. 22]](https://arxiv.org/abs/2204.02311) PaLM: Scaling Langauge Modeling with Pathways, arXiv preprint, 2022.  
-***
 [[Wei et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS 2022.  
-[[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022.  
-[[Touvron et al. 23]](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf) LLaMA: Open and Efficient Foundation Language Models, arXiv preprint, 2023
+[[Touvron et al. 23]](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf) LLaMA: Open and Efficient Foundation Language Models, arXiv preprint, 2023.  
 ***
+[[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022. 
+[[Wang et al. 23]](https://openreview.net/forum?id=1PL1NIMMrw) Self-Consistency Improves Chain of Thought Reasoning in Language Models, ICLR 2023.  
+[[Rust et al. 23]](https://openreview.net/forum?id=FkSp8VW8RjH) Language Modelling with Pixels, ICLR 2023.  
+[[Arora et al. 23]](https://openreview.net/pdf?id=bhUPJnS2g0X) Ask Me Anything: A Simple Strategy for Prompting Langauge Models, ICLR 2023.  
 
 
 ### Multimodal Foundation Models 
@@ -238,3 +241,5 @@ Text-Guided Diffusion Models, ICML 2022.
 ***
 [[Saharia et al. 22]](https://arxiv.org/abs/2205.11487) Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, arXiv preprint, 2022.  
 [[Yu et al. 22]](https://arxiv.org/abs/2206.10789) Scaling Autoregressive Models for Content-Rich Text-to-Image Generation, arXiv preprint, 2022.  
+[[Gafni et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf) Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors, ECCV 2022.  
+[[Chen et al. 23]](https://openreview.net/forum?id=XSEBx0iSjFQ) Re-Imagen: Retrieval-Augmented Text-to-Image Generator, ICLR 2023.  
