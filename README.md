@@ -28,15 +28,14 @@ Office hours: By appointment only.
 |3/23| Introduction to Deep Generative Models, GAN Basics (Lecture) | 
 |3/23| Advanced GANs (Lecture) |
 |3/28| Advanced GANs (Presentation) |
-|3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session)**  |
+|3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
 |4/6| Autoregressive and Flow-based Models (Presentation) |
 |4/11| Diffusion Models  (Lecture) |
 |4/13| Diffusion Models  (Lecture) |
 |4/18| Diffusion Models (Presentation) |
-|4/20| Diffusion Models (Presentation) | 
-|4/20| Large Language Models (Lecture)
-|4/25| Dialogue Generation (Lecture) |
+|4/20| **Mid-term Presentation** | 
+|4/25| Large Language Models (Lecture)
 |4/27| Multimodal Foundation Models (Lecture) 
 |5/2| Language and Multi-modal Foundation Models (Presentation) |
 |5/4| Text-to-Image Generation (Lecture) |
