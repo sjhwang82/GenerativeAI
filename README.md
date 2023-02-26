@@ -125,7 +125,7 @@ Models of Discrete Data, NeurIPS 2019.
 [[Song et al. 21]](https://openreview.net/forum?id=PxTIG12RRHS) Score-Based Generative Modeling through Stochastic Differential Equations, ICLR 2021.  
 [[Kosiorek et al. 21]](http://proceedings.mlr.press/v139/kosiorek21a/kosiorek21a.pdf) NeRF-VAE: A Geometry Aware 3D Scene Generative Model, ICML 2021.  
 ***
-
+[[Lipman et al. 23]](https://openreview.net/pdf?id=PqvMRDCJT9t) Flow Matching for Generative Modeling, ICLR 2023.  
 
 
 ### Generative Adversarial Networks
