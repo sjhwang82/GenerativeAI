@@ -102,15 +102,12 @@ Office hours: By appointment only.
 
 ***
 
-### Variational Autoencoders  
+### 
+
+### Variational Autoencoders, Autoregressive and Flow-Based Generative Models
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
 [[van den Oord et al. 17]](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf) Neural Discrete Representation Learning, NeurIPS 2017.  
 [[Vahdat and Kautz 20]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, NeurIPS 2020.  
-
-***
-
-### Autoregressive and Flow-Based Generative Models
-
 [[Rezende and Mohamed 15]](http://proceedings.mlr.press/v37/rezende15.pdf) Variational Inference with Normalizing Flows, ICML 2015.   
 [[Germain et al. 15]](http://proceedings.mlr.press/v37/germain15.pdf) MADE: Masked Autoencoder for Distribution Estimation, ICML 2015.  
 [[Kingma et al. 16]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf) Improved Variational Inference with Inverse Autoregressive Flow, NeurIPS 2016.  
