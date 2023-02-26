@@ -213,7 +213,7 @@ Limited Data, NeurIPS 2020.
 [[Wei et al. 22]](https://arxiv.org/pdf/2201.11903.pdf) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models, NeurIPS 2022.  
 [[Touvron et al. 23]](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf) LLaMA: Open and Efficient Foundation Language Models, arXiv preprint, 2023.  
 ***
-[[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022. 
+[[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022.  
 [[Wang et al. 23]](https://openreview.net/forum?id=1PL1NIMMrw) Self-Consistency Improves Chain of Thought Reasoning in Language Models, ICLR 2023.  
 [[Rust et al. 23]](https://openreview.net/forum?id=FkSp8VW8RjH) Language Modelling with Pixels, ICLR 2023.  
 [[Arora et al. 23]](https://openreview.net/pdf?id=bhUPJnS2g0X) Ask Me Anything: A Simple Strategy for Prompting Langauge Models, ICLR 2023.  
