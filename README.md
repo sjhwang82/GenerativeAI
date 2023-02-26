@@ -2,7 +2,7 @@
 
 ## Course Information
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
-**TAs:** Seul Lee (animecult@kaist.ac.kr) and Eunji Ko (kosu7071@kaist.ac.kr)
+**TAs:** Seul Lee (animecult@kaist.ac.kr), Geon Park and Sohyun An 
 
 **Office:** 
 This is an on/offline hybrid course.
@@ -215,6 +215,7 @@ Limited Data, NeurIPS 2020.
 ***
 
 ### Multimodal Foundation Models 
+[[Zeng et al. 23]](https://openreview.net/forum?id=G2Q2Mh3avow) Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language, ICLR 2023.  
 
 
 
