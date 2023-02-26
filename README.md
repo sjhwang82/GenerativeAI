@@ -44,8 +44,8 @@ Office hours: By appointment only.
 |5/11| Text-to-Image Generation (Presentation) |
 |5/16| Graph Representation Learning (Lecture) | 
 |5/23| Graph Generation (Lecture) | 
-|5/25| **Graph Generation (Lab session)** |
-|6/1| Graph Generation (Presentation) | 
+|5/25| Graph Generation (Presentation) |
+|6/1| **Graph Generation (Lab session)** |
 |6/3| Speech Synthesis (Lecture) |
 |6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
@@ -213,6 +213,10 @@ Limited Data, NeurIPS 2020.
 [[Ouyang et al. 22]](https://openreview.net/forum?id=TG8KACxEON) Training Language Models to Follow Instructions with Human Feedback, NeurIPS 2022.  
 [[Touvron et al. 23]](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf) LLaMA: Open and Efficient Foundation Language Models, arXiv preprint, 2023
 ***
+
+### Multimodal Foundation Models 
+
+
 
 ### Text-to-Image Synthesis
 [[Li et al. 19]](https://proceedings.neurips.cc/paper/2019/file/1d72310edc006dadf2190caad5802983-Paper.pdf) Controllable Text-to-Image Generation, NeurIPS 2019.  
