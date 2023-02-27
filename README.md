@@ -204,7 +204,7 @@ Limited Data, NeurIPS 2020.
 ### Multimodal Foundation Models 
 [[Socher et al. 13]](https://papers.nips.cc/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf) Zero-Shot Learning Through Cross-Modal Transfer, NeurIPS 2013.  
 [[Lu et al. 19]](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf) VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019.  
-[[Li et al. 20]](file:///Users/sungjuhwang/Downloads/6795-Article%20Text-10024-1-10-20200522.pdf) Unicoder-VL: A Universal Encoder for Vision and Language by Cross-Modal Pre-Training, AAAI 2020.  
+[[Li et al. 20]](https://ojs.aaai.org/index.php/AAAI/article/view/6795) Unicoder-VL: A Universal Encoder for Vision and Language by Cross-Modal Pre-Training, AAAI 2020.  
 [[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
 [[Li et al. 22]](https://proceedings.mlr.press/v162/li22n/li22n.pdf) BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation, ICML 2022.  
 [[Baevski et al. 22]](https://proceedings.mlr.press/v162/baevski22a/baevski22a.pdf) data2vec: A General Framework for Self-supervised Learning in Speech, Vision, and Language, ICML 2022.  
