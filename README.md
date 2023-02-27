@@ -124,6 +124,8 @@ Models of Discrete Data, NeurIPS 2019.
 [[Ping et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/647-Paper.pdf) WaveFlow: A Compact Flow-based Model for Raw Audio, ICML 2020.  
 [[Child 21]](https://openreview.net/forum?id=RLRXCV6DbEJ) Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images, ICLR 2021.  
 ***
+
+[[Chen et al. 22]](https://openreview.net/forum?id=zrAUoI2JA2) Learning Continuous Normalizing Flows for Faster Converegence to Target Distribution via Ascent Regularizations, ICLR 2023.  
 [[Lipman et al. 23]](https://openreview.net/pdf?id=PqvMRDCJT9t) Flow Matching for Generative Modeling, ICLR 2023.  
 
 
@@ -230,9 +232,12 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Yu et al. 22]](https://arxiv.org/abs/2206.10789) Scaling Autoregressive Models for Content-Rich Text-to-Image Generation, arXiv preprint, 2022.  
 [[Gafni et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf) Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors, ECCV 2022.  
 [[Chen et al. 23]](https://openreview.net/forum?id=XSEBx0iSjFQ) Re-Imagen: Retrieval-Augmented Text-to-Image Generator, ICLR 2023.  
+[[Poole et al. 23]](https://openreview.net/forum?id=FjNys5c7VyY) DreamFusion: Text-to-3D using 2D Diffusion, ICLR 2023.  
 
 ### Speech Representation Learning and Synthesis
+[[Oord et al. 16]](https://arxiv.org/abs/1609.03499) WaveNet: A Generative Model for Raw Audio, arXiv preprint 2016.  
 [[Baevski et al. 20]](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations, NeurIPS 2020.  
+[[Tang et al. 22]](https://aclanthology.org/2022.acl-long.105.pdf) Unified Speech-Text Pre-training for Speech Translation and Recognition, ACL 2022.  
 [[Wang et al. 17]](https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/1452.PDF) Tacotron: Towards End-to-End Speech Synthesis, Interspeech 2017.  
 [[Shen et al. 18]](https://arxiv.org/abs/1712.05884) Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions, ICASSP 2018.  
 [[Chen et al. 19]](https://openreview.net/forum?id=rkzjUoAcFX) Sample Efficient Adaptive Text-to-Speech, ICLR 2019.  
@@ -240,10 +245,12 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Kumar et al. 19]](https://papers.nips.cc/paper/2019/file/6804c9bca0a615bdb9374d00a9fcba59-Paper.pdf) MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis, NeurIPS 2019.  
 [[Kong et al. 20]](https://papers.nips.cc/paper/2020/file/c5d736809766d46260d816d8dbc9eb44-Paper.pdf) HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis, NeurIPS 2020.  
 [[Min et al. 21]](https://openreview.net/pdf?id=De4FYqjFueZ) Meta-StyleSpeech: Multi-Speaker Adaptive Text-to-Speech Generation, ICML 2021.  
+[[Tang et al. 22]](https://aclanthology.org/2022.acl-long.105.pdf) Unified Speech-Text Pre-training for Speech Translation and Recognition, ACL 2022.  
 ***
+[[Hsu and Shi 22]](https://openreview.net/forum?id=zrAUoI2JA2) u-HuBERT: Unified Mixed-Modal Speech Pretraining and Zero-Shot Transfer to Unlabeled Modality, NeurIPS 2022.  
 [[Kang et al. 23]](https://arxiv.org/abs/2211.09383) Any-Speaker Adaptive Text-To-Speech Synthesis with Diffusion Models, ICASSP 2023.  
 [[Ren et al. 23]](https://arxiv.org/abs/2211.09383) Back of Tricks for Unsupervised Text-to-Speech, ICLR 2023.    
-
+[[Lee et al. 23]](https://openreview.net/forum?id=zrAUoI2JA2) BigVGAN: A Universal Neural Vocoder with Large-Scale Training, ICLR 2023.  
 ***
 
 
