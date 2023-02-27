@@ -174,6 +174,7 @@ Limited Data, NeurIPS 2020.
 [[Salimans and Ho 22]](https://openreview.net/pdf?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.  
 [[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022.
 ***
+[[Ho et al. 22]](https://openreview.net/forum?id=f3zNgKga_ep) Video Diffusion Models, NeurIPS 2022.  
 [[Chen et al. 23]](https://openreview.net/forum?id=zyLVMgsZ0U_) Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions, ICLR 2023.   
 [[Liu et al. 23]](https://openreview.net/forum?id=WH1yCa0TbB) Learning Diffusion Bridges on Constrained Domains, ICLR 2023.   
 [[Chung et al. 23]](https://openreview.net/forum?id=OnD9zGAGT0k) Diffusion Posterior Sampling for General Noisy Inverse Problems, ICLR 2023.  
@@ -277,6 +278,7 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
 ***
+[[Kim et al. 22]](https://openreview.net/forum?id=JY6fLgR8Yq) Graph Self-Supervised Learning with Accurate Discrepancy Learning, NeurIPS 2022.  
 [[Kim et al. 23]](https://openreview.net/forum?id=um2BxfgkT2_) Pure Transformers are Powerful Graph Learners, NeurIPS 2022.  
 [[Vignac et al. 23]](https://openreview.net/forum?id=UaAD-Nu86WX) DiGress: Discrete Denoising Diffusion for Graph Generation, ICLR 2023.  
 [[Jo et al. 23]](https://arxiv.org/abs/2302.03596) Graph Generation with Destiation-Driven Diffusion Mixture, arXiv preprint, 2023.  
