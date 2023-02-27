@@ -69,7 +69,7 @@ Office hours: By appointment only.
 [[Lee et al. 23]](https://openreview.net/forum?id=VV0hSE8AxCw) Sparse Token Transformer with Attention Back Tracking, ICLR 2023.  
 [[Liu et al. 23]](https://openreview.net/pdf?id=De4FYqjFueZ) Transformers Learn Shortcuts to Automata, ICLR 2023.  
 [[Bolya et al. 23]](https://openreview.net/pdf?id=De4FYqjFueZ) Token Merging: Your ViT But Faster, ICLR 2023.  
-
+***
 
 ### Self-Supervised Learning
 <!--
