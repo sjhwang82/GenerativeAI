@@ -97,7 +97,7 @@ Office hours: By appointment only.
 [[He et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) Masked Autoencoders are Scalable Vision Learners, CVPR 2022.  
 [[Liu et al. 22]](https://arxiv.org/pdf/2203.15508.pdf) Improving Contrastive Learning with Model Augmetnation, arXiv preprint, 2022.  
 ***
-[[Touvron et al. 22]](https://arxiv.org/abs/2204.07118) DeIT III: Revenge of the VIT, arXiv preprint, 2022.  
+[[Touvron et al. 22]](https://arxiv.org/abs/2204.07118) DeIT III: Revenge of the VIT, ECCV 2022.  
 [[Garrido. et al. 23]](https://openreview.net/forum?id=kDEL91Dufpa) On the duality between contrastive and non-contrastive self-supervised learning, ICLR 2023.   
 [[Lee et al. 23]](https://openreview.net/forum?id=kIAx30hYi_p) Self-Supervised Set Representation Learning for Unsupervised Meta-Learning, ICLR 2023.  
 [[Park et al. 23]](https://openreview.net/forum?id=azCKuYyS74) What Do Self-Supervised Vision Transformers Learn?, ICLR 2023.  
