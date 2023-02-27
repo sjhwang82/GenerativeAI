@@ -44,7 +44,7 @@ Office hours: By appointment only.
 |5/16| Graph Representation Learning (Lecture) | 
 |5/23| Graph Generation (Lecture) | 
 |5/25| Graph Generation (Presentation) |
-|6/1| **Graph Generation - GDSS (Lab session)** |
+|6/1| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session)** |
 |6/3| Speech Synthesis (Lecture) |
 |6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
@@ -147,10 +147,10 @@ Limited Data, NeurIPS 2020.
 [[Karras et al. 21]](https://proceedings.neurips.cc/paper/2021/file/076ccd93ad68be51f23707988e934906-Paper.pdf) Alias-Free Generative Adversarial Networks, NeurIPS 2021.  
 [[Lin et al. 22]](https://openreview.net/pdf?id=ufGMqIM0a4b) InfinityGAN: Towards Infinite-Pixel Image Synthesis, ICLR 2022.  
 [[Lee et al. 22]](https://openreview.net/pdf?id=dwg5rXg1WS_) ViTGAN: Training GANs with Vision Transformers, ICLR 2022.  
-[[Yu et al. 22]](https://openreview.net/forum?id=pfNyExj7z2) Vector-Quantized Image Modeling with Improved VQGAN, ICLR 2022.  
+[[Yu et al. 22]](https://openreview.net/forum?id=pfNyExj7z2) Vector-Quantized Image Modeling with Improved VQGAN, ICLR 2022. 
 ***
-[[Franceschi et al. 22]](https://proceedings.mlr.press/v162/franceschi22a/franceschi22a.pdf) A Neural Tangent Kernel Perspective of GANs, ICML 2022.  
 [[Huang et al. 22]](https://openreview.net/forum?id=js2ssA77fX) Masked Generative Adversarial Networks are Data-Efficient Generation Learners, NeurIPS 2022.  
+
 ***
 
 ### Diffusion Models
