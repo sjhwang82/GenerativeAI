@@ -44,7 +44,7 @@ Office hours: By appointment only.
 |5/16| Graph Representation Learning (Lecture) | 
 |5/23| Graph Generation (Lecture) | 
 |5/25| Graph Generation (Presentation) |
-|6/1| **Graph Generation (Lab session)** |
+|6/1| **Graph Generation - GDSS (Lab session)** |
 |6/3| Speech Synthesis (Lecture) |
 |6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
