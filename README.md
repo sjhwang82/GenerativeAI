@@ -93,13 +93,14 @@ Office hours: By appointment only.
 [[Chen and He. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) Exploring Simple Siamese Representation Learning, CVPR 2021.  
 [[Tian et al. 21]](https://arxiv.org/pdf/2102.06810.pdf) Understanding Self-Supervised Learning Dynamics without Contrastive Pairs, ICML 2021.  
 [[Caron et al. 21]](https://arxiv.org/pdf/2104.14294.pdf) Emerging Properties in Self-Supervised Vision Transformers, ICCV 2021.  
-***
-[[Liu et al. 22]](https://openreview.net/forum?id=4AZz9osqrar) Self-supervised Learning is More Robust to Dataset Imbalance, ICLR 2022.  
 [[Bao et al. 22]](https://openreview.net/pdf?id=p-BhZSz59o4) BEiT: BERT Pre-Training of Image Transformers, ICLR 2022.  
 [[He et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.pdf) Masked Autoencoders are Scalable Vision Learners, CVPR 2022.  
 [[Liu et al. 22]](https://arxiv.org/pdf/2203.15508.pdf) Improving Contrastive Learning with Model Augmetnation, arXiv preprint, 2022.  
-[[Touvron et al. 22]](https://arxiv.org/abs/2204.07118) DeIT III: Revenge of the VIT, arXiv preprint, 2022.
-
+***
+[[Touvron et al. 22]](https://arxiv.org/abs/2204.07118) DeIT III: Revenge of the VIT, arXiv preprint, 2022.  
+[[Garrido. et al. 23]](https://openreview.net/forum?id=kDEL91Dufpa) On the duality between contrastive and non-contrastive self-supervised learning, ICLR 2023.   
+[[Lee et al. 23]](https://openreview.net/forum?id=kIAx30hYi_p) Self-Supervised Set Representation Learning for Unsupervised Meta-Learning, ICLR 2023.  
+[[Park et al. 23]](https://openreview.net/forum?id=azCKuYyS74) What Do Self-Supervised Vision Transformers Learn?, ICLR 2023.  
 ***
 
 ### 
