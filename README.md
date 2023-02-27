@@ -151,6 +151,9 @@ Limited Data, NeurIPS 2020.
 [[Yu et al. 22]](https://openreview.net/forum?id=pfNyExj7z2) Vector-Quantized Image Modeling with Improved VQGAN, ICLR 2022. 
 ***
 [[Huang et al. 22]](https://openreview.net/forum?id=js2ssA77fX) Masked Generative Adversarial Networks are Data-Efficient Generation Learners, NeurIPS 2022.  
+[[Yang et al. 22]](https://openreview.net/pdf?id=_P4JCoz83Mb) Distilling Representations from GAN Generator via Squeeze and Span, NeurIPS 2022.  
+[[Brooks et al. 22]](https://openreview.net/pdf?id=VnAwNNJiwDb) Generating Long Videos of Dynamic Scenes, NeurIPS 2022.  
+[[Wang et al. 23]](https://openreview.net/forum?id=HZf7UbpWHuA) Diffusion-GAN: Training GANs with Diffusion, ICLR 2023.  
 
 ***
 
