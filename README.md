@@ -32,12 +32,12 @@ Office hours: By appointment only.
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
 |4/6| Diffusion Models  (Lecture) |
 |4/11| Diffusion Models  (Lecture) |
-|4/13| **Diffusion Models (Lab Session)** |
-|4/18| Diffusion Models (Presentation) |
-|4/20| **Mid-term Presentation** | 
-|4/25| Large Language Models (Lecture)
-|4/27| Multimodal Foundation Models (Lecture) 
-|5/2| Language and Multi-modal Foundation Models (Presentation) |
+|4/13| Diffusion Models (Presentation) |
+|4/18| **Mid-term Presentation** | 
+|4/20| Large Language Models (Lecture) |
+|4/25| Large Language Models (Presentation) |
+|4/27| Multimodal Foundation Models (Lecture) | 
+|5/2| Multimodal Foundation Models (Presentation) | 
 |5/4| Text-to-Image Generation (Lecture) |
 |5/9| **Text-to-Image Generation - LDM (Lab Session)** |
 |5/11| Text-to-Image Generation (Presentation) |
