@@ -175,7 +175,7 @@ Limited Data, NeurIPS 2020.
 [[Ho and Salimans 22]](https://arxiv.org/pdf/2207.12598.pdf) Classifier-Free Diffusion Guidance, arXiv preprint, 2022.  
 [[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022.  
 [[Salimans and Ho 22]](https://openreview.net/pdf?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.  
-[[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022.
+[[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022.  
 [[Cohen et al. 22]](https://proceedings.mlr.press/v162/cohen22b/cohen22b.pdf) Diffusion bridges vector quantized variational autoencoders, ICML 2022.  
 ***
 [[Ho et al. 22]](https://openreview.net/forum?id=f3zNgKga_ep) Video Diffusion Models, NeurIPS 2022.  
