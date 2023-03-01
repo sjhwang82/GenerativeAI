@@ -176,8 +176,8 @@ Limited Data, NeurIPS 2020.
 [[Dockhorn et al. 22]](https://openreview.net/forum?id=CzceR82CYc) Score-Based Generative Modeling with Critically-Damped Langevin Diffusion, ICLR 2022.  
 [[Salimans and Ho 22]](https://openreview.net/pdf?id=TIdIXIpzhoI) Progressive Distillation for Fast Sampling of Diffusion Models, ICLR 2022.  
 [[Chen et al. 22]](https://openreview.net/forum?id=nioAdKCEdXB) Likelihood Training of Schrodinger Bridge using Forward-Backwrad SDEs Theory, ICLR 2022.  
-[[Cohen et al. 22]](https://proceedings.mlr.press/v162/cohen22b/cohen22b.pdf) Diffusion bridges vector quantized variational autoencoders, ICML 2022.  
 ***
+[[Cohen et al. 22]](https://proceedings.mlr.press/v162/cohen22b/cohen22b.pdf) Diffusion bridges vector quantized variational autoencoders, ICML 2022.  
 [[Ho et al. 22]](https://openreview.net/forum?id=f3zNgKga_ep) Video Diffusion Models, NeurIPS 2022.  
 [[Chen et al. 23]](https://openreview.net/forum?id=zyLVMgsZ0U_) Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions, ICLR 2023.   
 [[Liu et al. 23]](https://openreview.net/forum?id=WH1yCa0TbB) Learning Diffusion Bridges on Constrained Domains, ICLR 2023.   
