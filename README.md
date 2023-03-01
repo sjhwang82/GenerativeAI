@@ -107,6 +107,8 @@ Office hours: By appointment only.
 
 ### Variational Autoencoders, Autoregressive and Flow-Based Generative Models
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
+[[Sohn et al. 15]](https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf) Learning Structured Output Representation
+using Deep Conditional Generative Model, NeurIPS 2015.  
 [[Higgins et al. 17]](https://openreview.net/forum?id=Sy2fzU9gl) beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework, ICLR 2017.  
 [[van den Oord et al. 17]](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf) Neural Discrete Representation Learning, NeurIPS 2017.  
 [[Vahdat and Kautz 20]](https://arxiv.org/pdf/2007.03898v1.pdf) NVAE: A Deep Hierarchical Variational Autoencoder, NeurIPS 2020.  
