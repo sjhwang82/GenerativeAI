@@ -23,29 +23,29 @@ Office hours: By appointment only.
 |3/2| Autoencoders and Variational Autoencoders (Lecture) |
 |3/7| Transformers for Language and Vision (Lecture) |
 |3/9| Transformers for Language and Vision (Lecture) |
-|3/16| Self-Supervised Learning (Lecture) |
+|3/16| Self-Supervised Learning (Lecture) **Review Due** |
 |3/21| Self-Supervised Learning (Presentation) | 
-|3/23| Advanced VAEs, GAN Basics (Lecture) | 
+|3/23| Advanced VAEs, GAN Basics (Lecture) **Review Due** | 
 |3/23| Advanced GANs (Lecture) |
 |3/28| Advanced GANs (Presentation) |
 |3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
-|4/6| Diffusion Models  (Lecture) |
+|4/6| Diffusion Models  (Lecture) **Review Due** |
 |4/11| Diffusion Models  (Lecture) |
 |4/13| Diffusion Models (Presentation) |
 |4/18| **Mid-term Presentation** | 
-|4/20| Large Language Models (Lecture) |
+|4/20| Large Language Models (Lecture) **Review Due** |
 |4/25| Large Language Models (Presentation) |
-|4/27| Multimodal Foundation Models (Lecture) | 
+|4/27| Multimodal Foundation Models (Lecture) **Review Due** | 
 |5/2| Multimodal Foundation Models (Presentation) | 
 |5/4| Text-to-Image Generation (Lecture) |
 |5/9| **Text-to-Image Generation - LDM (Lab Session)** |
 |5/11| Text-to-Image Generation (Presentation) |
-|5/16| Graph Representation Learning (Lecture) | 
+|5/16| Graph Representation Learning (Lecture) **Review Due** | 
 |5/23| Graph Generation (Lecture) | 
 |5/25| Graph Generation (Presentation) |
 |6/1| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session)** |
-|6/3| Speech Synthesis (Lecture) |
+|6/3| Speech Synthesis (Lecture) **Review Due** |
 |6/8| Speech Synthesis (Presentation) |  
 |6/13| **Final Presentation**
 
