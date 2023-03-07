@@ -182,6 +182,7 @@ Limited Data, NeurIPS 2020.
 [[Chen et al. 23]](https://openreview.net/forum?id=zyLVMgsZ0U_) Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions, ICLR 2023.   
 [[Liu et al. 23]](https://openreview.net/forum?id=WH1yCa0TbB) Learning Diffusion Bridges on Constrained Domains, ICLR 2023.   
 [[Chung et al. 23]](https://openreview.net/forum?id=OnD9zGAGT0k) Diffusion Posterior Sampling for General Noisy Inverse Problems, ICLR 2023.  
+[[Song et al. 23]](https://arxiv.org/abs/2303.01469) Consistency Models, arXiv preprint 2023.  
 ***
 
 ### Large Language Models
