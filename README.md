@@ -57,6 +57,7 @@ Office hours: By appointment only.
 [[Zaheer et al. 20]](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf) Big Bird: Transformers for Longer Sequences, NeurIPS 2020.  
 [[Dosovitskiy et al. 21]](https://openreview.net/forum?id=YicbFdNTTy) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021.  
 [[Touvron et al. 21]](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf) Training Data-efficient Image transformers & Distillation through Attention, ICML 2021.  
+[[Tay et al. 21]](http://proceedings.mlr.press/v139/tay21a/tay21a.pdf) Synthesizer: Rethinking Self-Attention for Transformer Models, ICML 2021.  
 [[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.pdf) Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, ICCV 2021.  
 [[Wu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_CvT_Introducing_Convolutions_to_Vision_Transformers_ICCV_2021_paper.pdf) CvT: Introducing Convolutions to Vision Transformers, ICCV 2021.  
 [[Dai et al. 21]](https://proceedings.neurips.cc/paper/2021/file/20568692db622456cc42a2e853ca21f8-Paper.pdf) CoAtNet: Marrying Convolution and Attnetion for All Data Sizes, NeurIPS 2021.  
