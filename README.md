@@ -241,6 +241,8 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Chen et al. 23]](https://openreview.net/forum?id=XSEBx0iSjFQ) Re-Imagen: Retrieval-Augmented Text-to-Image Generator, ICLR 2023.  
 [[Poole et al. 23]](https://openreview.net/forum?id=FjNys5c7VyY) DreamFusion: Text-to-3D using 2D Diffusion, ICLR 2023.  
 
+***
+
 ### Speech Representation Learning and Synthesis
 [[Oord et al. 16]](https://arxiv.org/abs/1609.03499) WaveNet: A Generative Model for Raw Audio, arXiv preprint 2016.  
 [[Baevski et al. 20]](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf) wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations, NeurIPS 2020.  
