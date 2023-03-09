@@ -133,6 +133,8 @@ Models of Discrete Data, NeurIPS 2019.
 [[Lipman et al. 23]](https://openreview.net/pdf?id=PqvMRDCJT9t) Flow Matching for Generative Modeling, ICLR 2023.  
 
 
+***
+
 ### Generative Adversarial Networks
 [[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
 [[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
