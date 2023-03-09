@@ -221,7 +221,7 @@ Limited Data, NeurIPS 2020.
 [[Reed et al. 22]](https://arxiv.org/pdf/2205.06175.pdf) A Generalist Agent, arXiv preprint, 2022.  
 [[Zeng et al. 23]](https://openreview.net/forum?id=G2Q2Mh3avow) Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language, ICLR 2023.  
 
-
+***
 
 ### Text-to-Image Synthesis
 [[Reed et al. 16]](http://proceedings.mlr.press/v48/reed16.pdf) Generative Adversarial Text to Image Synthesis, ICML 2016.  
