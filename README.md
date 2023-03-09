@@ -81,7 +81,6 @@ Office hours: By appointment only.
 [[Pathak et al. 16]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf) Context Encoders: Feature Learning by Inpainting, CVPR 2016.  
 [[Norrozi and Favaro et al. 16]](https://arxiv.org/pdf/1603.09246.pdf) Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles, ECCV 2016.   
 [[Gidaris et al. 18]](https://openreview.net/pdf?id=S1v4N2l0-) Unsupervised Representation Learning by Predicting Image Rotations, ICLR 2018.  
-[[Lewis et al. 20]](https://aclanthology.org/2020.acl-main.703.pdf) BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, ACL 2020.  
 [[He et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) Momentum Contrast for Unsupervised Visual Representation Learning, CVPR 2020.  
 [[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf) A Simple Framework for Contrastive Learning of Visual Representations, ICML 2020.  
 [[Mikolov et al. 13]](https://arxiv.org/pdf/1301.3781.pdf) Efficient Estimation of Word Representations in Vector Space, ICLR 2013.  
@@ -193,6 +192,7 @@ Limited Data, NeurIPS 2020.
 
 ### Large Language Models
 [[Shoeybi et al. 19]](https://arxiv.org/abs/1909.08053) Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism, arXiv preprint, 2019.  
+[[Lewis et al. 20]](https://aclanthology.org/2020.acl-main.703.pdf) BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, ACL 2020.  
 [[Raffel et al. 20]](https://jmlr.org/papers/volume21/20-074/20-074.pdf) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, JMLR 2020.  
 [[Gururangan et al. 20]](https://aclanthology.org/2020.acl-main.740.pdf) Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks, ACL 2020.  
 [[Brown et al. 20]](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) Language Models are Few-shot Learners, NeurIPS 2020.  
