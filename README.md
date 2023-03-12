@@ -24,10 +24,10 @@ Office hours: By appointment only.
 |3/7| Transformers for Language and Vision (Lecture) |
 |3/9| Transformers for Language and Vision (Lecture) |
 |3/14| Self-Supervised Learning (Lecture) **Review Due** |
-|3/16| Self-Supervised Learning (Presentation) | 
-|3/21| Advanced VAEs, GAN Basics (Lecture) **Review Due** | 
-|3/23| Advanced GANs (Lecture) |
-|3/28| Advanced GANs (Presentation) |
+|3/16| Self-Supervised Learning (Lecture) | 
+|3/21| Self-Supervised Learning (Presentation) **Review Due** | 
+|3/23| Advanced VAEs and GANs (Lecture) |
+|3/28| Advanced VAEs and GANs (Presentation) |
 |3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
 |4/4| Autoregressive and Flow-based Models (Lecture) | 
 |4/6| Diffusion Models  (Lecture) **Review Due** |
