@@ -247,7 +247,7 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Gafni et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf) Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors, ECCV 2022.  
 [[Chen et al. 23]](https://openreview.net/forum?id=XSEBx0iSjFQ) Re-Imagen: Retrieval-Augmented Text-to-Image Generator, ICLR 2023.  
 [[Poole et al. 23]](https://openreview.net/forum?id=FjNys5c7VyY) DreamFusion: Text-to-3D using 2D Diffusion, ICLR 2023.  
-
+[[Chang et al. 23]](https://arxiv.org/abs/2301.00704) Muse: Text-To-Image Generation via Masked Generative Transformers, arXiv preprint, 2023.  
 ***
 
 ### Speech Representation Learning and Synthesis
