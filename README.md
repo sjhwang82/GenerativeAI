@@ -129,12 +129,11 @@ using Deep Conditional Generative Model, NeurIPS 2015.
 [[Tran et al. 19]](https://papers.nips.cc/paper/9612-discrete-flows-invertible-generative-models-of-discrete-data.pdf) Discrete Flows: Invertible Generative
 Models of Discrete Data, NeurIPS 2019.  
 [[Ping et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/647-Paper.pdf) WaveFlow: A Compact Flow-based Model for Raw Audio, ICML 2020.  
-[[Child 21]](https://openreview.net/forum?id=RLRXCV6DbEJ) Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images, ICLR 2021.  
+[[Chang et al. 22]](https://arxiv.org/abs/2202.04200) MaskGIT: Masked Generative Image Transformer, CVPR 2022.  
 ***
 
 [[Chen et al. 22]](https://openreview.net/forum?id=zrAUoI2JA2) Learning Continuous Normalizing Flows for Faster Converegence to Target Distribution via Ascent Regularizations, ICLR 2023.  
 [[Lipman et al. 23]](https://openreview.net/pdf?id=PqvMRDCJT9t) Flow Matching for Generative Modeling, ICLR 2023.  
-
 
 ***
 
