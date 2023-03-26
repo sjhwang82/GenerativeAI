@@ -27,27 +27,28 @@ Office hours: By appointment only.
 |3/16| Self-Supervised Learning (Lecture) | 
 |3/21| Self-Supervised Learning (Presentation) | 
 |3/23| Advanced VAEs and GANs (Lecture) **Review Due** |
-|3/28| Advanced VAEs and GANs (Presentation) |
-|3/30| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due**  |
-|4/4| Autoregressive and Flow-based Models (Lecture) | 
-|4/6| Diffusion Models  (Lecture) **Review Due** |
-|4/11| Diffusion Models  (Lecture) |
-|4/13| Diffusion Models (Presentation) |
-|4/18| **Mid-term Presentation** | 
-|4/20| Large Language Models (Lecture) **Review Due** |
-|4/25| Large Language Models (Presentation) |
-|4/27| Multimodal Foundation Models (Lecture) **Review Due** | 
-|5/2| Multimodal Foundation Models (Presentation) | 
-|5/4| Text-to-Image Generation (Lecture) |
-|5/9| **Text-to-Image Generation - LDM (Lab Session)** |
-|5/11| Text-to-Image Generation (Presentation) |
-|5/16| Graph Representation Learning (Lecture) **Review Due** | 
-|5/23| Graph Generation (Lecture) | 
-|5/25| Graph Generation (Presentation) |
-|6/1| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session)** |
-|6/3| Speech Synthesis (Lecture) **Review Due** |
-|6/8| Speech Synthesis (Presentation) |  
-|6/13| **Final Presentation**
+|3/28| Advanced VAEs and GANs (Lecture) **Review Due** |
+|3/30| Advanced VAEs and GANs (Presentation) |
+|4/4| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due April 2nd**  |
+|4/6| Autoregressive and Flow-based Models (Lecture) | 
+|4/11| Diffusion Models  (Lecture) **Review Due** |
+|4/13| Diffusion Models  (Lecture) |
+|4/18| Diffusion Models (Presentation) |
+|4/20| **Mid-term Presentation** | 
+|4/25| Large Language Models (Lecture) **Review Due** |
+|4/27| Large Language Models (Presentation) |
+|5/2| Multimodal Foundation Models (Lecture) **Review Due** | 
+|5/4| Multimodal Foundation Models (Presentation) | 
+|5/9| Text-to-Image Generation (Lecture) |
+|5/11| **Text-to-Image Generation - LDM (Lab Session)** |
+|5/16| Text-to-Image Generation (Presentation) |
+|5/23| Graph Representation Learning (Lecture) **Review Due** | 
+|5/25| Graph Generation (Lecture) | 
+|6/1| Graph Generation (Presentation) |
+|6/6| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session)** |
+|6/8| Speech Synthesis (Lecture) **Review Due** |
+|6/13| Speech Synthesis (Presentation) **Final report due** |  
+|6/15| **Final Presentation**
 
 ## Reading List
 
@@ -210,7 +211,8 @@ Limited Data, NeurIPS 2020.
 [[Wang et al. 23]](https://openreview.net/forum?id=1PL1NIMMrw) Self-Consistency Improves Chain of Thought Reasoning in Language Models, ICLR 2023.  
 [[Rust et al. 23]](https://openreview.net/forum?id=FkSp8VW8RjH) Language Modelling with Pixels, ICLR 2023.  
 [[Arora et al. 23]](https://openreview.net/pdf?id=bhUPJnS2g0X) Ask Me Anything: A Simple Strategy for Prompting Langauge Models, ICLR 2023.  
-[[Honovich et al. 22]](https://arxiv.org/abs/2212.09689) Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor, arXiv preprint , 2022.  
+[[Honovich et al. 22]](https://arxiv.org/abs/2212.09689) Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor, arXiv preprint, 2022.  
+[[Wang et al. 22]](https://arxiv.org/abs/2212.10560) Self-Instruct: Aligning Language Model with Self Generated Instructions, arXiv preprint, 2022.  
 ***
 
 ### Multimodal Foundation Models 
