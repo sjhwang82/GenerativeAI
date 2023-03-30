@@ -31,21 +31,21 @@ Office hours: By appointment only.
 |3/30| Advanced VAEs and GANs (Presentation) |
 |4/4| **VAEs and GANs - VQVAE and VQGAN (Lab session), initial proposal due April 2nd**  |
 |4/6| Autoregressive and Flow-based Models (Lecture) | 
-|4/11| Diffusion Models  (Lecture) **Review Due** |
+|4/11| Diffusion Models  (Lecture) **Review Due, Presentation Slides Due (Diffusion Models)** |
 |4/13| Diffusion Models  (Lecture) |
 |4/18| Diffusion Models (Presentation) |
-|4/20| **Mid-term Presentation** | 
+|4/20| **Mid-term Presentation, Presentation Slides Due (Large Language Models)** | 
 |4/25| Large Language Models (Lecture) **Review Due** |
-|4/27| Large Language Models (Presentation) |
+|4/27| Large Language Models (Presentation) **Presentation Slides Due (Multimodal Foundation Models)**|
 |5/2| Multimodal Foundation Models (Lecture) **Review Due** | 
-|5/4| Multimodal Foundation Models (Presentation) | 
+|5/4| Multimodal Foundation Models (Presentation) **Presentation Slides Due (Text-to-Image Generation)**| 
 |5/9| Text-to-Image Generation (Lecture) |
 |5/11| **Text-to-Image Generation - LDM (Lab Session)** |
 |5/16| Text-to-Image Generation (Presentation) |
-|5/23| Graph Representation Learning (Lecture) **Review Due** | 
+|5/23| Graph Representation Learning (Lecture) **Review Due, Presentation Slides Due (Graph Reprsentation Learning and Generation)** | 
 |5/25| Graph Generation (Lecture) | 
 |6/1| Graph Generation (Presentation) |
-|6/6| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session)** |
+|6/6| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session), Presentation Slides Due (Speech Synthesis)** |
 |6/8| Speech Synthesis (Lecture) **Review Due** |
 |6/13| Speech Synthesis (Presentation) **Final report due** |  
 |6/15| **Final Presentation**
