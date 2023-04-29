@@ -218,6 +218,7 @@ Limited Data, NeurIPS 2020.
 ### Multimodal Foundation Models 
 [[Socher et al. 13]](https://papers.nips.cc/paper/2013/file/2d6cc4b2d139a53512fb8cbb3086ae2e-Paper.pdf) Zero-Shot Learning Through Cross-Modal Transfer, NeurIPS 2013.  
 [[Lu et al. 19]](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf) VilBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019.  
+[[Chen et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750103.pdf) UNITER: Universal Image-Text Representation Learning, ECCV 2020.  
 [[Huang et al. 20]](https://arxiv.org/pdf/2004.00849.pdf) Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers, arXiv preprint 2020.  
 [[Li et al. 20]](https://ojs.aaai.org/index.php/AAAI/article/view/6795) Unicoder-VL: A Universal Encoder for Vision and Language by Cross-Modal Pre-Training, AAAI 2020.  
 [[Radford et al. 21]](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) Learning Transferable Visual Models From Natural Language Supervision, ICML 2021.  
