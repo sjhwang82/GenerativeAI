@@ -41,7 +41,7 @@ Office hours: By appointment only.
 |5/4| Multimodal Foundation Models (Presentation) **Presentation Slides Due (Text-to-Image Generation)**| 
 |5/9| Text-to-Image Generation (Lecture) |
 |5/11| **Text-to-Image Generation - LDM (Lab Session)** |
-|5/16| Text-to-Image Generation (Presentation) |
+|5/16| Text-to-Image Generation (Presentation) **Review Due**  |
 |5/23| Graph Representation Learning (Lecture) **Review Due, Presentation Slides Due (Graph Reprsentation Learning and Generation)** | 
 |5/25| Graph Generation (Lecture) | 
 |6/1| Graph Generation (Presentation) |
