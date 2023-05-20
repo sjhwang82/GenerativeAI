@@ -296,7 +296,8 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Hu et al. 20]](https://arxiv.org/pdf/1905.12265.pdf) Strategies for Pre-training Graph Neural Networks, ICLR 2020.  
 [[You et al. 20]](https://arxiv.org/pdf/1905.12265.pdf) Graph Contrastive Learning with Augmentations, NeurIPS 2020.  
 [[You et al. 21]](http://proceedings.mlr.press/v139/you21a/you21a.pdf) Graph Contrastive Learning Automated, ICML 2021.  
-[[Xu et al. 21]](http://proceedings.mlr.press/v139/xu21g/xu21g.pdf) Self-supervised Graph-level Representation Learning with Local and Global Structure, ICML 2021.  
+[[Xu et al. 21]](http://proceedings.mlr.press/v139/xu21g/xu21g.pdf) Self-supervised Graph-level Representation Learning with Local and Global Structure, ICML 2021. 
+[[Thakoor et al. 22]](https://openreview.net/pdf?id=0UXT6PpRpW) Large-Scale Representation Learning on Graphs via Bootstrapping, ICLR 2022.  
 [[Simonovsky and Komodakis 18]](https://arxiv.org/abs/1802.03480) GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders, arXiv preprint 2018.  
 [[You et al. 18]](https://cs.stanford.edu/people/jure/pubs/graphrnn-icml18.pdf) GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML 2018.  
 [[Liao et al. 19]](https://proceedings.neurips.cc/paper_files/paper/2019/file/d0921d442ee91b896ad95059d13df618-Paper.pdf) Efficient Graph Generation with Graph Recurrent Attention Networks, NeurIPS 2019.  
