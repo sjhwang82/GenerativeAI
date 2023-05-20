@@ -302,6 +302,7 @@ Text-Guided Diffusion Models, ICML 2022.
 [[You et al. 18]](https://cs.stanford.edu/people/jure/pubs/graphrnn-icml18.pdf) GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML 2018.  
 [[Liao et al. 19]](https://proceedings.neurips.cc/paper_files/paper/2019/file/d0921d442ee91b896ad95059d13df618-Paper.pdf) Efficient Graph Generation with Graph Recurrent Attention Networks, NeurIPS 2019.  
 [[Zhang et al. 19]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf) D-VAE: A Variational Autoencoder for Directed Acyclic Graphs, NeurIPS 2019.  
+[[Niu et al. 20]](http://proceedings.mlr.press/v108/niu20a/niu20a.pdf) Permutation Invariant Graph Generation via Score-Based Generative Modeling, AISTATS 2020.  
 [[Guo et al. 22]](https://openreview.net/pdf?id=l4IHywGq6a) Data-Efficient Graph Grammar Learning for Molecular Generation, ICLR 2022.  
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
