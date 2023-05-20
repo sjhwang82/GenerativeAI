@@ -289,14 +289,19 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Garg et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/2911-Paper.pdf) Generalization and Representational Limits of Graph Neural Networks, ICML 2020.  
 [[Baek et al. 21]](https://openreview.net/forum?id=JHcqXGaqiGn) Accurate Learning of Graph Representations with Graph Multiset Pooling, ICLR 2021.  
 [[Liu et al. 21]](http://proceedings.mlr.press/v139/liu21k/liu21k.pdf) Elastic Graph Neural Networks, ICML 2021.  
-[[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.-->    
-[[Jo et al. 21]](https://openreview.net/forum?id=vwgsqRorzz) Edge Representation Learning with Hypergraphs, NeurIPS 2021.  
+[[Li et al. 21]](http://proceedings.mlr.press/v139/li21o/li21o.pdf) Training Graph Neural networks with 1000 Layers, ICML 2021.    
+[[Jo et al. 21]](https://openreview.net/forum?id=vwgsqRorzz) Edge Representation Learning with Hypergraphs, NeurIPS 2021.
+[[Bevilacqua et al. 22]](https://openreview.net/pdf?id=dFbKQaRk15w) Equivariant Subgraph Aggregation Networks, ICLR 2022.
+[[Geerts et al. 22]](https://openreview.net/pdf?id=wIzUeM3TAU) Expressiveness and Approximation Properties of Graph Neural Networks, ICLR 2022.-->  
 [[Hu et al. 20]](https://arxiv.org/pdf/1905.12265.pdf) Strategies for Pre-training Graph Neural Networks, ICLR 2020.  
 [[You et al. 20]](https://arxiv.org/pdf/1905.12265.pdf) Graph Contrastive Learning with Augmentations, NeurIPS 2020.  
 [[You et al. 21]](http://proceedings.mlr.press/v139/you21a/you21a.pdf) Graph Contrastive Learning Automated, ICML 2021.  
+[[Xu et al. 21]](http://proceedings.mlr.press/v139/xu21g/xu21g.pdf) Self-supervised Graph-level Representation Learning with Local and Global Structure, ICML 2021.  
+[[Simonovsky and Komodakis 18]](https://arxiv.org/abs/1802.03480) GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders, arXiv preprint 2018.  
+[[You et al. 18]](https://cs.stanford.edu/people/jure/pubs/graphrnn-icml18.pdf) GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML 2018.  
+[[Liao et al. 19]](https://proceedings.neurips.cc/paper_files/paper/2019/file/d0921d442ee91b896ad95059d13df618-Paper.pdf) Efficient Graph Generation with Graph Recurrent Attention Networks, NeurIPS 2019.  
+[[Zhang et al. 19]](https://proceedings.neurips.cc/paper_files/paper/2019/file/e205ee2a5de471a70c1fd1b46033a75f-Paper.pdf) D-VAE: A Variational Autoencoder for Directed Acyclic Graphs, NeurIPS 2019.  
 [[Guo et al. 22]](https://openreview.net/pdf?id=l4IHywGq6a) Data-Efficient Graph Grammar Learning for Molecular Generation, ICLR 2022.  
-[[Geerts et al. 22]](https://openreview.net/pdf?id=wIzUeM3TAU) Expressiveness and Approximation Properties of Graph Neural Networks, ICLR 2022.  
-[[Bevilacqua et al. 22]](https://openreview.net/pdf?id=dFbKQaRk15w) Equivariant Subgraph Aggregation Networks, ICLR 2022.  
 [[Jo et al. 22]](https://proceedings.mlr.press/v162/jo22a/jo22a.pdf) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations, ICML 2022.  
 [[Hoogeboom et al. 22]](https://proceedings.mlr.press/v162/hoogeboom22a/hoogeboom22a.pdf) Equivariant Diffusion for Molecule Generation in 3D, ICML 2022.  
 ***
