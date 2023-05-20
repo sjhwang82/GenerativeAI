@@ -42,7 +42,7 @@ Office hours: By appointment only.
 |5/9| Text-to-Image Generation (Lecture) |
 |5/11| **Text-to-Image Generation - LDM (Lab Session)** |
 |5/16| Text-to-Image Generation (Presentation) **Review Due**  |
-|5/23| Graph Representation Learning (Lecture) **Review Due, Presentation Slides Due (Graph Reprsentation Learning and Generation)** | 
+|5/23| Graph Representation Learning (GNN Basics, Graph SSL) (Lecture) **Review Due, Presentation Slides Due (Graph Reprsentation Learning and Generation)** | 
 |5/25| Graph Generation (Lecture) | 
 |5/30| Graph Generation (Presentation) |
 |6/1| **Molecular Graph Generation - GDSS, MOOD, DruM (Lab session), Presentation Slides Due (Speech Synthesis)** |
