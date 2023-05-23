@@ -268,6 +268,7 @@ Text-Guided Diffusion Models, ICML 2022.
 [[Tang et al. 22]](https://aclanthology.org/2022.acl-long.105.pdf) Unified Speech-Text Pre-training for Speech Translation and Recognition, ACL 2022.  
 ***
 [[Hsu and Shi 22]](https://openreview.net/forum?id=zrAUoI2JA2) u-HuBERT: Unified Mixed-Modal Speech Pretraining and Zero-Shot Transfer to Unlabeled Modality, NeurIPS 2022.  
+[[Radford et al. 22]](https://arxiv.org/abs/2212.04356) Robust Speech Recognition via Large-Scale Weak Supervision, arXiv preprint 2022.  
 [[Kang et al. 23]](https://arxiv.org/abs/2211.09383) Any-Speaker Adaptive Text-To-Speech Synthesis with Diffusion Models, ICASSP 2023.  
 [[Ren et al. 23]](https://arxiv.org/abs/2211.09383) Back of Tricks for Unsupervised Text-to-Speech, ICLR 2023.    
 [[Lee et al. 23]](https://openreview.net/forum?id=zrAUoI2JA2) BigVGAN: A Universal Neural Vocoder with Large-Scale Training, ICLR 2023.  
